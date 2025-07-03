@@ -54,7 +54,6 @@ I'm a Computer Engineering student at **Fatih Sultan Mehmet Vakıf University** 
 - Comprehensive car rental application with user authentication
 - Vehicle inventory management and booking system
 - Payment processing and transaction handling
-- [View Project →](https://github.com/sumeyye677/car-rental-system)
 
 ### 📚 Learning Management System
 **Java Swing | MySQL**
@@ -62,14 +61,12 @@ I'm a Computer Engineering student at **Fatih Sultan Mehmet Vakıf University** 
 - Light/dark mode support
 - Real-time data management for lessons and content
 - Secure login/logout and profile management
-- [View Project →](https://github.com/sumeyye677/learning-management-system)
 
 ### 🔐 Interactive Login & Signup Pages
 **HTML5 | CSS3 | Responsive Design**
 - Modern and user-friendly authentication pages
 - Interactive form validation and smooth animations
 - Mobile-responsive design with glassmorphism effects
-- [View Project →](https://github.com/sumeyye677/login-signup-pages)
 
 ## 📜 Certifications & Courses
 
@@ -128,7 +125,4 @@ I'm a Computer Engineering student at **Fatih Sultan Mehmet Vakıf University** 
 <div align="center">
   
 **Thanks for visiting my profile! 😊**
-  
-*"The best way to predict the future is to create it." - Peter Drucker*
-
 </div>
