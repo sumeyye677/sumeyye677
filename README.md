@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Sümeyye Akgül
+# Hello! 👋 It's Sümeyye Akgül
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Full+Stack+Developer;Software+Engineer;Always+learning+new+things" alt="Typing SVG" />
@@ -6,7 +6,7 @@
 
 ## 🎓 About Me
 
-I'm a Computer Engineering student at **Fatih Sultan Mehmet Vakıf University** (2023-2027) with a passion for technology and innovation. Currently maintaining a **3.50/4.00 GPA** and actively participating in various bootcamps and certification programs.
+I'm a Computer Engineering student at **Fatih Sultan Mehmet Vakıf University** (2023-2027) with a passion for technology and innovation.
 
 - 🔭 I'm currently working on **Java and C# projects**
 - 🌱 I'm learning **Data Science** and **Game Development**
