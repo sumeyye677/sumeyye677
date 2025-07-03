@@ -11,16 +11,8 @@ I'm a Computer Engineering student at **Fatih Sultan Mehmet Vakıf University** 
 - 🔭 I'm currently working on **Java and C# projects**
 - 🌱 I'm learning **Data Science** and **Game Development**
 - 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **Java, C#, Python, and Arduino**
 - 📫 How to reach me: **akguls153@gmail.com**
-- ⚡ Fun fact: I love combining **hardware and software** in robotics projects!
-
-## 🚀 Current Focus
-
-🎯 **Acunmedya Academy** - 7-month C# Programming Introduction training program (2024-2025)
-- 100% scholarship recipient
-- Collaboration with Istanbul Nişantaşı University
-- Hands-on project development and skill enhancement
+- ⚡ I love combining **hardware and software** in robotics projects!
 
 ## 💻 Tech Stack
 
